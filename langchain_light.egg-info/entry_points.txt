@@ -1,0 +1,3 @@
+[console_scripts]
+lcl = langchain_light.cli:main
+
